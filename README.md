@@ -1,4 +1,5 @@
 **Hi, I’m Meheniger Alam**
+
 *Graduate in Information and Communication Technology | Data Analytics & Data Science Enthusiast*
 
 Welcome to my GitHub profile! As a recent graduate from Cumilla University, I am passionate about transforming raw data into meaningful insights and building intelligent systems that drive impactful decisions.
@@ -9,6 +10,7 @@ Welcome to my GitHub profile! As a recent graduate from Cumilla University, I am
 - Database Management: Skilled in SQL for querying, cleaning, and managing relational databases.
 
 **Seeking Opportunities: Open to roles in Data Analytics and Data Science**
+
 **Goal: Transform data into actionable insights to drive impactful decision-making**
 
 **What Excites Me**
@@ -16,4 +18,4 @@ Welcome to my GitHub profile! As a recent graduate from Cumilla University, I am
 - Data Science: Applying machine learning and statistical methods to solve real-world problems.
 - AI & Machine Learning: Building predictive models and intelligent systems for classification, regression, and beyond.
 
-⚡️ “Empowering decisions through data-driven insights.”
+                                                                                                          ⚡️ “Empowering decisions through data-driven insights.”
