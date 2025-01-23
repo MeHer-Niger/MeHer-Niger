@@ -18,4 +18,4 @@ Welcome to my GitHub profile! As a recent graduate from Cumilla University, I am
 - Data Science: Applying machine learning and statistical methods to solve real-world problems.
 - AI & Machine Learning: Building predictive models and intelligent systems for classification, regression, and beyond.
 
-                                                                                                          ⚡️ “Empowering decisions through data-driven insights.”
+                   ⚡️ “Empowering decisions through data-driven insights.”
