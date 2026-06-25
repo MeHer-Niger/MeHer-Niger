@@ -1,45 +1,61 @@
-Sure — here is the updated version with your **current study clearly added**:
+<h1 align="center">Hi, I'm Meheniger Alam 👋</h1>
+
+<h3 align="center">
+ICT Graduate | Currently Studying IT Support in Finland | Service Desk & Technical Support Enthusiast
+</h3>
 
 ---
 
-Hi, I’m Meheniger Alam
+### 👨‍💻 About Me
 
-Graduate in Information and Communication Technology | Currently Studying IT Support in Finland | Service Desk & Technical Support Enthusiast
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I am passionate about helping users, solving technical problems, and supporting smooth IT operations. I am currently studying **Information and Communication Technology – IT Support Specialist** at **Taitotalo, Finland**, where I am gaining practical skills in IT support, workstation setup, troubleshooting, networking basics, and system maintenance. 
+I am an ICT graduate and currently studying **Information and Communication Technology – IT Support Specialist** at **Taitotalo, Finland**. I am passionate about helping users, solving technical problems, and supporting smooth IT operations.
 
-## What I Bring to the Table
+I have hands-on practice with workstation setup, troubleshooting, software installation, virtual machines, technical documentation, basic networking, and user support.
 
-**IT Support Skills:** Hands-on practice with Service Desk tasks, user support, troubleshooting, workstation setup, and technical documentation.
+My goal is to start my career in **IT Support / Service Desk** and grow step by step into **Microsoft 365 Administration, System Administration, and Modern Workplace Support**.
 
-**Operating Systems:** Familiar with Windows workstation support, Windows installation, Linux basics, macOS basics, and system maintenance.
+---
 
-**Microsoft & Business Tools:** Learning Microsoft 365, Azure basics, Intune, Exchange, Active Directory basics, and user account management.
+### 🛠️ What I Bring to the Table
 
-**Networking & Security Basics:** Basic understanding of IP addresses, networking fundamentals, Wireshark, port scanning, cybersecurity basics, and GDPR.
+**IT Support & Service Desk**  
+User support | Troubleshooting | Support requests | Technical documentation | Customer-focused support
 
-**Virtualization:** Practical experience with VMware and VirtualBox for Windows and Linux virtual machine practice.
+**Operating Systems & Workstations**  
+Windows support | Windows installation | Linux basics | macOS basics | Software installation | Device setup
 
-**Scripting & Automation:** Basic knowledge of PowerShell, command-line troubleshooting, Python, and SQL.
+**Microsoft & Business Tools**  
+Microsoft 365 | Azure basics | Intune | Exchange | Active Directory basics | User account management
 
-**User Support:** Able to communicate clearly with users, explain technical issues simply, and provide patient customer-focused support.
+**Networking & Security Basics**  
+IP addressing | Network fundamentals | Wireshark basics | Port scanning basics | Cybersecurity basics | GDPR awareness
 
-**Seeking Opportunities:** Open to roles in IT Support, Service Desk, Helpdesk Support, Technical Support, and On-site Support.
+**Virtualization & Lab Practice**  
+VMware | VirtualBox | Windows virtual machines | Linux virtual machines | IT support home lab
 
-## Goal
+**Scripting & Technical Tools**  
+PowerShell basics | Command-line troubleshooting | Python basics | SQL basics | GitHub | VS Code
 
-To start my career in IT Support and grow step by step into Microsoft 365 administration, system administration, and modern workplace support.
+---
 
-## What Excites Me
+### 🚀 What Excites Me
 
-**IT Support:** Helping users solve daily technical problems.
+- Helping users solve daily technical problems  
+- Working with Service Desk and support tickets  
+- Setting up and maintaining workstations  
+- Learning Microsoft 365 and cloud-based workplace tools  
+- Building strong skills in Windows, Linux, networking, and automation  
 
-**Service Desk:** Handling support requests and improving user experience.
+---
 
-**Workstation Support:** Setting up, maintaining, and troubleshooting computers.
+### 🎯 Career Goal
 
-**Microsoft 365:** Learning cloud-based tools, user management, and workplace support.
+To become a reliable IT Support professional who can support users, solve problems clearly, and help organizations keep their technology running smoothly.
 
-**System Administration:** Building strong skills in Windows, Linux, Active Directory, and automation.
+---
 
-⚡️ **“Helping users, solving problems, and keeping technology running smoothly.”**
+<h3 align="center">
+⚡ Helping users, solving problems, and keeping technology running smoothly.
+</h3>
