@@ -1,6 +1,9 @@
+```markdown
+<div style="font-family: Aptos, Arial, sans-serif;">
+
 # 👋 Hi, I’m Meheniger Alam
 
-**IT Support Specialist Student | ICT Graduate | Service Desk & Modern Workplace Support**
+***IT Support Specialist Student | ICT Graduate | Service Desk & Modern Workplace Support***
 
 I’m an **ICT graduate** and currently studying **IT Support Specialist at Taitotalo, Finland**.
 
@@ -8,7 +11,7 @@ I’m focused on developing practical skills for real IT support work, especiall
 
 My goal is to learn real workplace IT tasks through **hands-on practice, documentation, and troubleshooting**.
 
-I am interested in helping users, solving technical problems, and supporting smooth daily IT operations.
+*I am interested in helping users, solving technical problems, and supporting smooth daily IT operations.*
 
 ---
 
@@ -87,4 +90,7 @@ My long-term goal is to grow into **Microsoft 365 Administration, System Adminis
 
 ---
 
-### ⚡ Helping users, solving technical problems, and keeping everyday IT systems working smoothly.
+### *⚡ Helping users, solving technical problems, and keeping everyday IT systems working smoothly.*
+
+</div>
+```
