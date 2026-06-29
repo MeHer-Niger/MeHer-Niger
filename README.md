@@ -1,88 +1,90 @@
 # 👋 Hi, I’m Meheniger Alam
 
-I’m an **ICT Graduate** and currently studying **IT Support Specialist at Taitotalo, Finland**.
-Focused on **IT Support, Service Desk, Technical Support, Workstation Support, Microsoft 365, Networking Basics, and User Support**.
+**IT Support Specialist Student | ICT Graduate | Service Desk & Modern Workplace Support**
+
+I’m an **ICT graduate** and currently studying **IT Support Specialist at Taitotalo, Finland**.
+
+I’m focused on developing practical skills for real IT support work, especially **Service Desk, Modern Workstation Support, Microsoft 365 Administration, Ticketing Systems Administration, Networking Basics, and End-User Support**.
+
+My goal is to learn real workplace IT tasks through **hands-on practice, documentation, and troubleshooting**.
+
+I am interested in helping users, solving technical problems, and supporting smooth daily IT operations.
 
 ---
 
-## What I Do
+## 🔧 What I Do
 
-I support users and practice real-world IT support tasks, including:
-
-* Troubleshooting Windows and Linux issues
-* Setting up and maintaining workstations
-* Installing software and configuring systems
-* Supporting users with daily technical problems
-* Working with virtual machines and IT lab environments
-* Writing clear technical documentation
-* Learning Microsoft 365, Active Directory, Intune, Exchange, Azure basics, and PowerShell
-
----
-
-## Connect with Me
-
-**Email:** [mehenigeralam@gmail.com](mailto:mehenigeralam@gmail.com)
-**LinkedIn:** Meheniger Alam
-**GitHub:** MeHer-Niger
+- Troubleshooting **Windows, Linux, and basic macOS** issues
+- Setting up and maintaining user workstations
+- Installing software and configuring systems
+- Supporting users with daily technical problems
+- Working with virtual machines and IT lab environments
+- Handling **ITSM workflows** and support tickets with **Jira** and **ServiceNow basics**
+- Writing clear technical documentation and user guides
+- Learning **Microsoft 365, Active Directory, Intune, Exchange, Azure basics, and PowerShell**
 
 ---
 
-## Featured Practice Areas
+## 📌 Featured Practice Areas
 
-| Area                    | Description                                                             | Practice / Workflow                                                                                              |
-| ----------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| IT Support Practice Lab | Built a virtual IT support environment for learning and troubleshooting | VMware / VirtualBox → Windows & Linux VMs → User setup → Software installation → Troubleshooting → Documentation |
-| Workstation Setup       | Practiced preparing computers for end users                             | OS installation → Software setup → Device checking → Basic testing → User-ready workstation                      |
-| User Support & Guidance | Helped users understand and use digital tools clearly                   | User issue → Simple explanation → Step-by-step support → Problem solved                                          |
-| Technical Documentation | Created clear instructions for common IT support tasks                  | Problem → Solution steps → Documentation → Reusable guide                                                        |
-| Networking Basics       | Practiced basic network concepts and troubleshooting                    | IP address → Connectivity check → Wireshark basics → Network issue analysis                                      |
-| Microsoft 365 Learning  | Building skills for modern workplace support                            | Microsoft 365 → User accounts → Exchange basics → Intune basics → Admin center learning                          |
-
----
-
-## Technical Stack
-
-**IT Support:** Service Desk basics, user support, troubleshooting, technical documentation, on-site support basics, remote support basics
-
-**Operating Systems:** Windows, Linux basics, macOS basics
-
-**Workstations:** Windows installation, software installation, device setup, peripheral support, system maintenance
-
-**Microsoft & Business Tools:** Microsoft 365, Azure basics, Intune basics, Exchange basics, Active Directory basics, user account management basics
-
-**Networking & Security:** IP addressing, network fundamentals, Wireshark basics, port scanning basics, cybersecurity basics, GDPR awareness
-
-**Virtualization:** VMware, VirtualBox, Windows virtual machines, Linux virtual machines
-
-**Scripting & Tools:** PowerShell basics, command-line troubleshooting, Python basics, SQL basics, GitHub, VS Code, Jira basics, ServiceNow basics
+| Area | Description | Practice / Workflow |
+|---|---|---|
+| **IT Support Practice Lab** | Built a virtual IT support environment for troubleshooting and learning | VMware / VirtualBox → Windows & Linux VMs → User setup → Software installation → Troubleshooting → Documentation |
+| **Workstation Setup** | Practiced preparing computers for end users | OS installation → Software setup → Device checking → Basic testing → User-ready workstation |
+| **Service Desk & Ticketing** | Practiced handling user issues using ticket-based workflows | User request → Ticket creation → Priority check → Troubleshooting → Resolution → Documentation |
+| **User Support & Guidance** | Helped users understand and use digital tools clearly | User issue → Simple explanation → Step-by-step support → Problem solved |
+| **Technical Documentation** | Created reusable instructions for common IT support tasks | Problem → Solution steps → Documentation → Knowledge base article |
+| **Networking Basics** | Practiced basic network concepts and troubleshooting | IP address → Connectivity check → Ping / Traceroute → Wireshark basics → Issue analysis |
+| **Microsoft 365 Learning** | Building skills for modern workplace support | Microsoft 365 → User accounts → Exchange basics → Intune basics → Admin Center learning |
 
 ---
 
-## Language Skills
+## 🛠️ Technical Skills
 
-**English:** B1 — Intermediate
-**Finnish:** B1 — Intermediate
-**Bengali:** Native
-
----
-
-## Soft Skills
-
-Customer Service Mindset | Clear Communication | Problem Solving | Teamwork | Time Management | Careful and Organized Working Style | Motivation to Learn | Adaptability
-
----
-
-## Career Goal
-
-My goal is to start my career in **IT Support / Service Desk** and grow step by step into **Microsoft 365 Administration, System Administration, and Modern Workplace Support**.
+| Category | Skills |
+|---|---|
+| **IT Support & Service Desk** | Service Desk, user support, first-line troubleshooting, remote support, on-site support, ticket handling, incident management, technical documentation |
+| **Ticketing / ITSM** | Jira basics, ServiceNow basics, support ticket handling, issue categorization, prioritization, escalation, resolution documentation |
+| **Operating Systems** | Windows, Linux basics, macOS basics |
+| **Workstations** | OS installation, software installation, device setup, peripheral support, system maintenance, basic hardware checks |
+| **Microsoft Tools & Modern Workplace** | Microsoft 365, Microsoft 365 Admin Center basics, Active Directory basics, Exchange basics, Intune basics, Azure basics, user account management basics |
+| **Networking** | IP addressing, DNS basics, DHCP basics, ping, traceroute, Wireshark basics, port scanning |
+| **Security** | Cybersecurity basics, GDPR awareness, safe user support practices |
+| **Virtualization** | VMware, VirtualBox, Windows VMs, Linux VMs |
+| **Scripting & Tools** | PowerShell basics, command-line troubleshooting, Python basics, SQL basics, GitHub, VS Code |
 
 ---
 
-## About Me
+## 🌍 Languages
 
-I enjoy IT support because I like helping people, solving technical problems, and learning how systems work.
-I am motivated to improve my practical skills every day and become a reliable IT support professional.
+- **English:** B1 — Intermediate
+- **Finnish:** B1 — Intermediate
+- **Bengali:** Native
 
 ---
 
-⚡ **Helping users. Solving problems. Keeping technology running smoothly.**
+## 🤝 Soft Skills
+
+**Customer Service Mindset** | **Clear Communication** | **Problem Solving** | **Teamwork** | **Time Management** | **Careful and Organized Working Style** | **Motivation to Learn** | **Adaptability**
+
+---
+
+## 🎯 Career Goal
+
+I’m still learning, but I’m motivated, careful, and ready to improve through real practical work.
+
+I am looking for opportunities in **IT Support, Service Desk, Technical Support, Workstation Support, and Junior Modern Workplace Support**.
+
+My long-term goal is to grow into **Microsoft 365 Administration, System Administration, and Modern Workplace Support**, while becoming a reliable **IT Support / Service Desk professional** who can help users clearly, solve problems carefully, and support daily IT operations in a professional environment.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** [mehenigeralam@gmail.com](mailto:mehenigeralam@gmail.com)
+- 🔗 **LinkedIn:** Meheniger Alam
+- 💻 **GitHub:** MeHer-Niger
+
+---
+
+### ⚡ Helping users, solving technical problems, and keeping everyday IT systems working smoothly.
