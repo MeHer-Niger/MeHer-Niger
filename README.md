@@ -78,7 +78,7 @@ I’m still learning, but I’m motivated, careful, and ready to improve through
 
 I am looking for opportunities in **IT Support, Service Desk, Technical Support, Workstation Support, and Junior Modern Workplace Support**.
 
-My long-term goal is to grow into **Microsoft 365 Administration, System Administration, and Modern Workplace Support**, while becoming a reliable **IT Support / Service Desk professional** who can help users clearly, solve problems carefully, and support daily IT operations in a professional environment.
+*My long-term goal is to grow into **Microsoft 365 Administration, System Administration, and Modern Workplace Support**, while becoming a reliable **IT Support / Service Desk professional** who can help users clearly, solve problems carefully, and support daily IT operations in a professional environment.*
 
 ---
 
