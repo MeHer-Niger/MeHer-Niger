@@ -1,6 +1,4 @@
 ```markdown
-<div style="font-family: Aptos, Arial, sans-serif;">
-
 # 👋 Hi, I’m Meheniger Alam
 
 ***IT Support Specialist Student | ICT Graduate | Service Desk & Modern Workplace Support***
@@ -92,5 +90,4 @@ I am looking for opportunities in **IT Support, Service Desk, Technical Support,
 
 ### *⚡ Helping users, solving technical problems, and keeping everyday IT systems working smoothly.*
 
-</div>
 ```
